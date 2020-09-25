@@ -10,6 +10,10 @@ This then prompted Steve and his parents to expand the analysis to include at le
 
 The analysis of stocks for Steve and his parents was conducted on a dataset with the results from fiscal 2017 and 2018.  Starting with the results from 2017, about 92% of the companies analyzed saw positive returns at the end of 2017.  Solely looking at this extracted data, though showing great performance, does not provide insight into company and/or market trend.
 
-Initially, the VBA code used to analyze the broader stock performance in 2017 ran smoothly, but not very fast, and it did not format the compiled results in a visual manner.  Here is a screenshot of the first attempt to run the VBA code: 
+Initially, the VBA code used to analyze the broader stock performance in 2017 ran smoothly, but not very fast, and it did not format the compiled results in a visual manner.  Here is a screenshot of the first attempt to run the VBA code:
+
+![Initial 2017 Stock Analysis with VBA Results](https://github.com/matthewdouglasmartin/stock-analysis/blob/master/Resources/VBA_Initial_2017.png)
+
+
 
 ## Summary
